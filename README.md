@@ -1,2 +1,2 @@
-# nico
-Our experiments with Nico humanoid robot
+# NICO
+Our experiments with Gyro hand glove and robot
